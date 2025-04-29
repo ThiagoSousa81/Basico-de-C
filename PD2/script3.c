@@ -1,4 +1,3 @@
- GNU nano 8.3                                                                   script3.c                                                                            
 #include <stdio.h>
 
 int main()
